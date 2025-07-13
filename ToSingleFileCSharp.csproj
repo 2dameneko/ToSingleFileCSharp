@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>  <!-- Required for .exe generation -->
+    <TargetFramework>net8.0</TargetFramework>  <!-- Use your .NET version -->
+  </PropertyGroup>
+</Project>
