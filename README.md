@@ -20,7 +20,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ToSingleFile
+git clone https://github.com/2dameneko/ToSingleFile
 cd ToSingleFile
 dotnet build
 ```
